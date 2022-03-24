@@ -41,7 +41,6 @@ h2 {
 
 h3 {
   font-weight: normal;
-  letter-spacing: .3em;
   margin-bottom: 18px;
   line-height: 1em;
 }
@@ -57,7 +56,6 @@ h4 {
 p {
   font-size: .9em;
   line-height: 1.8em;
-  letter-spacing: .103em;
   margin-bottom: 15px;
 }
 
@@ -65,7 +63,6 @@ span {
   display: inline-block;
   font-size: 1em;
   line-height: 1em;
-  letter-spacing: .35em;
   vertical-align: top;
   padding-top: 10px;
 }
@@ -109,4 +106,7 @@ img {
   background: rgba(247,211,27,1);
   margin-left: 163px;
   padding-top: 25px;
+}
+.footer {
+  display: flex;
 }
